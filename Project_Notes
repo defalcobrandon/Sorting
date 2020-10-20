@@ -1,0 +1,15 @@
+Youtube vidoe from code foundry, the 1 coding project idea guarenteed to get you a sd job
+
+1 make a clean ui
+2 download Bootstrap and grab a template to build the ui
+3 need a database, do crud
+4 login page, so authen and authorization  (security) - use a third party service like auth0
+5 has to solve a business problem
+
+
+bugtracker
+Workflow tracker basically
+Can change the title or picture and call it a helpdesk system/ticket tracker
+build an SRS, Software Requirement Specifications
+
+divide buulding this up into sprints
